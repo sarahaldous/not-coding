@@ -23,3 +23,17 @@ h2 {
   margin-top: 5%;
   text-decoration: underline;
 }
+
+#closeups {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+  @media screen and (max-width: 992px){
+    flex-direction: column;
+  } 
+}
+
+/* img {
+  height: 50vh
+} */

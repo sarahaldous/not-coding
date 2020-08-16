@@ -31,7 +31,7 @@ function Baking() {
                     <img src={ArtGallery} alt="carousel cake" height="350px" />
                     <h4>Here's a closer look at each of those "paintings."</h4>
 
-                    <div style={{ display: "flex", flexDirection: "row", justifyContent: "space-between" }}>
+                    <div class="closeups" >
 
                         <img src={StarryNight} alt="carousel cake" height="270px" />
                         <img src={TheScream} alt="carousel cake" height="270px" />
