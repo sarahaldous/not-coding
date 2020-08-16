@@ -1,0 +1,25 @@
+body {
+  margin: 5%;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-color: royalblue; */
+  background-color: steelblue;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1 {
+  text-decoration: underline;
+  margin: 5%;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: midnightblue;
+  margin-top: 5%;
+  text-decoration: underline;
+}
