@@ -15,10 +15,10 @@ function Artwork() {
             <div>
                 <h2>My First Painting!</h2>
                 <h4>Back in 2013, after watching an artist friend of mine creating a painting, I decided I'd like to try my hand at it. This was my first oil painting ever. </h4>
-                <div class="closeups">
+                <div className="closeups">
 
-                    <img src={ArtistAndWaves} alt="carousel cake" height="350px" />
-                    <img src={CrashingWaves} alt="carousel cake" height="350px" />
+                    <img src={ArtistAndWaves} alt="me with first painting" height="350px" />
+                    <img src={CrashingWaves} alt="first painting" height="350px" />
 
                 </div>
             </div>
